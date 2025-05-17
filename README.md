@@ -63,5 +63,5 @@ cypress/
 
 ---
 
-* Screenshot otomatis disimpan di folder `/cypress/screenshots` apabila test gagal.
+* Screenshot otomatis disimpan di folder `/cypress/screenshots`.
 * `cy.intercept()` digunakan untuk menunggu respons dari request API agar lebih stabil.
